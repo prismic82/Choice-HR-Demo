@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_182596_hr.admin" name="x_182596_hr.admin">664daa9edb0123000be60d53ca9619d6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-12 00:03:34</sys_created_on>
+        <sys_id>4c9de69edb0123000be60d53ca9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>664daa9edb0123000be60d53ca9619d6</sys_name>
+        <sys_package display_value="HR" source="x_182596_hr">5a3d2a5edb0123000be60d53ca961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">5a3d2a5edb0123000be60d53ca961938</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4c9de69edb0123000be60d53ca9619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-12 00:03:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

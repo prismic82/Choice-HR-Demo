@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="engagement_type" table="x_182596_hr_employee" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Full time</label>
+            <language>en</language>
+            <name>x_182596_hr_employee</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 03:53:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f222312dbc123000be60d53ca9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 03:53:28</sys_updated_on>
+            <value>fulltime</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Part time</label>
+            <language>en</language>
+            <name>x_182596_hr_employee</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 03:53:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff222312dbc123000be60d53ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 03:53:28</sys_updated_on>
+            <value>parttime</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>engagement_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Casual</label>
+            <language>en</language>
+            <name>x_182596_hr_employee</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 03:53:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f222312dbc123000be60d53ca9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 03:53:28</sys_updated_on>
+            <value>casual</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>engagement_type</element>
+            <name>x_182596_hr_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 03:53:28</sys_created_on>
+            <sys_id>f7222312dbc123000be60d53ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>engagement_type</sys_name>
+            <sys_package display_value="HR" source="x_182596_hr">5a3d2a5edb0123000be60d53ca961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR">5a3d2a5edb0123000be60d53ca961938</sys_scope>
+            <sys_update_name>sys_choice_x_182596_hr_employee_engagement_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 03:53:28</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

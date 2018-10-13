@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-12 00:15:19</sys_created_on>
+        <sys_id>8040f252db4123000be60d53ca961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_182596_hr.admin</sys_name>
+        <sys_package display_value="HR" source="x_182596_hr">5a3d2a5edb0123000be60d53ca961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">5a3d2a5edb0123000be60d53ca961938</sys_scope>
+        <sys_security_acl display_value="x_182596_hr_choice.active">0c40f252db4123000be60d53ca961954</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8040f252db4123000be60d53ca961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-12 00:15:19</sys_updated_on>
+        <sys_user_role display_value="x_182596_hr.admin" name="x_182596_hr.admin">664daa9edb0123000be60d53ca9619d6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

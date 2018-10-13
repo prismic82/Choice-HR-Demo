@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="label" label="Label" language="en" table="x_182596_hr_choice">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>label</element>
+            <help/>
+            <hint>The label to show for the choice in a choice list</hint>
+            <label>Label</label>
+            <language>en</language>
+            <name>x_182596_hr_choice</name>
+            <plural>Labels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 00:07:44</sys_created_on>
+            <sys_id>058e6ededb0123000be60d53ca961955</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Label</sys_name>
+            <sys_package display_value="HR" source="x_182596_hr">5a3d2a5edb0123000be60d53ca961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR">5a3d2a5edb0123000be60d53ca961938</sys_scope>
+            <sys_update_name>sys_documentation_x_182596_hr_choice_label_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 05:19:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

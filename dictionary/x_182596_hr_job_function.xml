@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_182596_hr_choice" label="Job Function" max_length="40" name="x_182596_hr_job_function" type="collection"/>
+</database>
