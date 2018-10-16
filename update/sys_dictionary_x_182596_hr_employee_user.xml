@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-12 03:41:43</sys_created_on>
-        <sys_id>ba3b47e3db0123000be60d53ca96192e</sys_id>
+        <sys_id>d2e55b6fdb0123000be60d53ca961989</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User</sys_name>
         <sys_package display_value="HR" source="x_182596_hr">5a3d2a5edb0123000be60d53ca961938</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="HR">5a3d2a5edb0123000be60d53ca961938</sys_scope>
         <sys_update_name>sys_dictionary_x_182596_hr_employee_user</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-10-15 23:25:38</sys_updated_on>
+        <sys_updated_on>2018-10-16 00:12:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
